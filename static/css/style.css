@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #0c164f !important;
+}
+
+.nav-link{
+    color: white;
+}
+
+button.navbar-toggler {
+    background-color: none;
+    border: none;
+    color: white !important;
+    opacity: 1 !important;
+}
+
+
+
+nav img {
+    width: 80px;
+}
